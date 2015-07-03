@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/denamustafa/Downloads/140offline-android-daliloffline/app/src/main/res/values-w600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_detail_horizontal_margin">64dp</dimen>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="image_height_wordpress">300dp</dimen>
+    <dimen name="image_height_youtube">300dp</dimen>
+    <dimen name="preference_fragment_padding_side">64dp</dimen>
+</resources>
